@@ -6,3 +6,4 @@ seaborn==0.13.2
 openpyxl==3.1.2
 joblib==1.4.2
 jupyterlab==4.2.1
+Flask==3.0.3
